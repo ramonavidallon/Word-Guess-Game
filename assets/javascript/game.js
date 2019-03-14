@@ -141,8 +141,8 @@ console.log(Word);
 
 
 //MUSIC FUNCTION//
-/*document.addEventListener('keydown', function() {
+document.addEventListener('keydown', function() {
     if (keyCode == 65) {
       document.getElementById('audio').play();
     }
-  });*/
+  });
