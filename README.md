@@ -19,11 +19,3 @@
   <li> HTML </li>
   <li> Google Fonts </li>
 </ul>
-
-<h2> Reflection </h2>
-
-<p> Throughout this project I really enjoyed the CSS portion, and was greatly challenged with the Javascript part of this project having little to no experience with JS. Now, I can say that I have gotten a much better understanding of Javascript and how functions, for loops, and arrays all do to bind together an interactive website.</p>
-<br>
-<p> I, Ramon Vidallon am the only contributer to this repository. </p>
-<br>
-<p>Thanks and "Play Ball!!!"</p>
