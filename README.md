@@ -1,14 +1,31 @@
-In this repository I have created my version of a hangman game for my UW Coding Bootcamp course.
+<h1> Word Guess Game </h1>
 
-This version of hangman or word guess game, I have decided to curate mine with a Seattle Mariner theme. For each word that you guess, it would be the name of a Mariner Great which I have included the following players: Ken Griffey Jr, Alex Rodriguez, Dan Wilson, Ichiro Suzuki, Felix Hernandez, Edgar Martinez, Joey Cora, and Kazuhiro Sasaki. I decided to have the user guess their most famous name which was typically their last minus Ichiro Suzuki's. His stayed as "Ichiro".
+<h2> Origin </h2>
 
-I have included a number of lives for the user to have remaining before you lose. 1 live = 1 letter guessed. I have supplied the user with 8 total lives before losing the game or not guessing the name completely. There is a "WINS" category and a "LOSSES" category which would keep track of the user's record throughout interaction.
+<p>  This version of hangman or word guess game, I have decided to curate mine with a Seattle Mariner theme. For each word that you guess, it would be the name of a Mariner Great which I have included the following players: Ken Griffey Jr, Alex Rodriguez, Dan Wilson, Ichiro Suzuki, Felix Hernandez, Edgar Martinez, Joey Cora, and Kazuhiro Sasaki. I decided to have the user guess their most famous name which was typically their last minus Ichiro Suzuki's. His stayed as "Ichiro".</p>
 
-This project is simply ran with HTML, CSS, Javacript, and GoogleFonts. I used Google Fonts to style my page and give it more of a baseball theme to it.
+<h2> Objective | Rundown </h2>
 
-Throughout this project I really enjoyed the CSS portion, and was greatly challenged with the Javascript part of this project having little to no experience with JS. Now, I can say that I have gotten a much better understanding of Javascript and how functions, for loops, and arrays all do to bind together an interactive website.
+<ul>
+  <li> The user gets 8 lives or 8 letter guesses to solve the missing Seattle Mariner superstar! 1 live = 1 letter guessed.    </li>
+  <li> I have created a scoreboard that will keep track of each of the user's wins and losses. </li>
+  <li> Once the user types out the name correctly, a picture of the Mariner legend will populate as a reward for winning the game. </li>
+ </ul>
+  
+<h2> Technologies Used </h2>
+<ul>
+  <li> Javascript </li>
+  <li> CSS </li>
+  <li> HTML </li>
+  <li> Google Fonts </li>
+</ul>
 
+<h2> Reflection </h2>
 
-I, Ramon Vidallon am the only contributer to this repository.
+<p> Throughout this project I really enjoyed the CSS portion, and was greatly challenged with the Javascript part of this project having little to no experience with JS. Now, I can say that I have gotten a much better understanding of Javascript and how functions, for loops, and arrays all do to bind together an interactive website.</p>
+
+<br><br><br><br>
+
+<h3> I, Ramon Vidallon am the only contributer to this repository. </h3>
 
 Thanks and "Play Ball!!!"
